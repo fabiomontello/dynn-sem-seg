@@ -1,0 +1,12 @@
+nvitop
+torch 
+torchvision
+transformers
+datasets
+albumentations
+einops
+timm
+pycocotools
+scipy
+omegaconf
+prettytable
